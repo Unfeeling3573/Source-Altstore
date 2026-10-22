@@ -1,0 +1,12 @@
+{
+  "name": "My AltStore Source",
+  "identifier": "com.example.myaltstoresource",
+  "subtitle": "Custom apps for AltStore",
+  "description": "Replace this text with a short description of your source.",
+  "iconURL": "https://example.com/icon.png",
+  "headerURL": "https://example.com/header.png",
+  "website": "https://example.com",
+  "tintColor": "#1F8BFF",
+  "featuredApps": [],
+  "apps": []
+}
